@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Student Fee Calculator\Student Fee Calculator\bin\Debug\Student Fee Calculator.exe.config
+C:\Users\DELL\source\repos\Student Fee Calculator\Student Fee Calculator\bin\Debug\Student Fee Calculator.exe
+C:\Users\DELL\source\repos\Student Fee Calculator\Student Fee Calculator\bin\Debug\Student Fee Calculator.pdb
+C:\Users\DELL\source\repos\Student Fee Calculator\Student Fee Calculator\obj\Debug\Student Fee Calculator.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Student Fee Calculator\Student Fee Calculator\obj\Debug\Student Fee Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Student Fee Calculator\Student Fee Calculator\obj\Debug\Student Fee Calculator.exe
+C:\Users\DELL\source\repos\Student Fee Calculator\Student Fee Calculator\obj\Debug\Student Fee Calculator.pdb
